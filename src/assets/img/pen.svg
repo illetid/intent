@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.094" height="16.032" viewBox="0 0 16.094 16.032">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="pen.svg" class="cls-1" d="M691.969,726.937l-0.985-.88,3.8-8.9,5.75-2.625L704,717.719l-2.562,5.562Zm-1.006.026,0.012-.02,5.875-6.468,0.707,0.707ZM696,719.969h2v2h-2v-2Zm6.814-9.057,4.243,4.242-2.121,2.122-4.243-4.243Z" transform="translate(-690.969 -710.906)"/>
+</svg>

@@ -1,0 +1,2 @@
+[Tue May 31 2016 21:45:27 GMT+0300 (Финляндия (лето))] layer "google +": Expected end of input but "+" found.
+[Tue May 31 2016 21:52:18 GMT+0300 (Финляндия (лето))] layer "pen.svg copy": Expected end of input but "c" found.
